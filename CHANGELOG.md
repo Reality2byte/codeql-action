@@ -6,6 +6,11 @@ See the [releases page](https://github.com/github/codeql-action/releases) for th
 
 No user facing changes.
 
+## 3.29.0 - 11 Jun 2025
+
+- Update default CodeQL bundle version to 2.22.0. [#2925](https://github.com/github/codeql-action/pull/2925)
+- Bump minimum CodeQL bundle version to 2.16.6. [#2912](https://github.com/github/codeql-action/pull/2912)
+
 ## 3.28.19 - 03 Jun 2025
 
 - The CodeQL Action no longer includes its own copy of the extractor for the `actions` language, which is currently in public preview.
